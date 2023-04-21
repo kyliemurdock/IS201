@@ -1,0 +1,92 @@
+.mainlogo{
+    color: white;
+}
+.photos{
+    background-color:white;
+}
+
+.ske{
+    background-color: white;
+}
+
+.foot{
+    background-color: black;
+}
+body{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%)
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h6{
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    
+}
+
+.Header{
+    padding-top: 5%;
+    padding-bottom: 2.5%;
+}
+
+.title1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.linked{
+    text-align: center;
+    font-size: large;
+}
+
+.bodytext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: white;
+}
+
+.video{
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 55%;
+    padding-top: 2.5%;
+}
+.videotext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-align: center;
+    color: white;
+}
+
+.tableauPlaceholder{
+    display: block;
+    margin-top: auto;
+}
+
+.home{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-align: center;
+}
+
+.music{
+    text-align: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+a{
+    color: white;
+}
