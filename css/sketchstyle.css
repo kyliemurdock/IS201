@@ -11,3 +11,9 @@ body{
 a{
     color: white;
 }
+
+.home{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-align: center;
+}
